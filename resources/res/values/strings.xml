@@ -89,7 +89,7 @@
     <string name="firebase_database_url">https://desknuwmeduua.firebaseio.com</string>
     <string name="from_people">Від: %1$s</string>
     <string name="gcm_defaultSenderId">575714876605</string>
-    <string name="google_api_key">AIzaSyCRhMGWfxgrnJMmsZrT6vKhhmNVAcOBx2E</string>
+    <string name="google_api_key"></string>
     <string name="google_app_id">1:575714876605:android:18b101c06bdd8a03</string>
     <string name="google_crash_reporting_api_key">AIzaSyCRhMGWfxgrnJMmsZrT6vKhhmNVAcOBx2E</string>
     <string name="google_sign_in">Sign in with Google</string>
