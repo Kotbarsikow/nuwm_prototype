@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/achiv_stub"
+    android:padding="16dp"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="0.66">
+    <TextView
+        android:textAppearance="@style/BaseTextAppearance.Regular"
+        android:textSize="15sp"
+        android:textColor="?attr/colorTextSub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Мій рейтинг: \9\9\9\9\9\9\9\9\9\9 1 XP"/>
+    <TextView
+        android:textAppearance="@style/BaseTextAppearance.Regular"
+        android:textSize="15sp"
+        android:textColor="?attr/colorTextSub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Груповий рейтинг:\9\9\9\9\9 1 XP"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp">
+        <TextView
+            android:textAppearance="@style/BaseTextAppearance.Regular"
+            android:textSize="15sp"
+            android:textColor="?attr/colorTextSub"
+            android:id="@+id/my"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Мої досягнення"
+            android:layout_centerVertical="true"/>
+        <ImageView
+            android:id="@+id/d1"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/my"
+            android:layout_centerVertical="true"
+            app:srcCompat="@drawable/ic_bbb38978da106efec13185d17489783a"/>
+        <com.m_myr.nuwm.nuwmschedule.ui.view.CircleColorView
+            android:id="@+id/d2"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/d1"
+            android:layout_centerVertical="true"
+            app:color="@color/employeeColor"/>
+        <com.m_myr.nuwm.nuwmschedule.ui.view.CircleColorView
+            android:id="@+id/d3"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="-16dp"
+            android:layout_toRightOf="@+id/d2"
+            android:layout_centerVertical="true"
+            app:color="@color/studentColor"/>
+        <com.m_myr.nuwm.nuwmschedule.ui.view.CircleColorView
+            android:id="@+id/d4"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="-16dp"
+            android:layout_toRightOf="@+id/d3"
+            android:layout_centerVertical="true"
+            app:color="@color/colorPrimaryMaterialDark"/>
+    </RelativeLayout>
+</LinearLayout>

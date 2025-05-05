@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_share"
+        android:id="@+id/action_share"
+        android:title="Поділитися"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="always"/>
+    <item
+        android:icon="@drawable/ic_add_alert"
+        android:id="@+id/action_push"
+        android:visible="false"
+        android:title="Надіслати сповіщення"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="always"/>
+    <item
+        android:icon="@drawable/calendar_edit"
+        android:id="@+id/action_edit_to_calendar"
+        android:visible="false"
+        android:title="Редагувати подію"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="always"/>
+</menu>

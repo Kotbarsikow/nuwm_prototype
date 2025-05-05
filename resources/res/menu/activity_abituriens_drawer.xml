@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_newspaper"
+            android:id="@+id/abit_nav_news"
+            android:title="Новини"/>
+        <item
+            android:icon="@drawable/ic_newspaper"
+            android:id="@+id/abit_nav_calc"
+            android:title="Калькулятор"/>
+        <item
+            android:icon="@drawable/ic_assistant_photo_black_24dp"
+            android:id="@+id/abit_nav_vstup"
+            android:title="Вступна кампанія"/>
+        <group
+            android:id="@+id/menu_group_vstup"
+            android:visible="false"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/abit_nav_vstup1"
+                android:title="    Перелік спеціальностей"/>
+            <item
+                android:id="@+id/abit_nav_vstup2"
+                android:title="    Документи та строки прийому"/>
+            <item
+                android:id="@+id/abit_nav_vstup30"
+                android:visible="false"
+                android:title="    Для молодшого спеціалістау"/>
+            <item
+                android:id="@+id/abit_nav_vstup4"
+                android:title="    Сертифікат ЗНО"/>
+            <item
+                android:id="@+id/abit_nav_vstup5"
+                android:title="    Програми вступних випробувань"/>
+            <item
+                android:id="@+id/abit_nav_vstup6"
+                android:title="    Державне замовлення"/>
+            <item
+                android:id="@+id/abit_nav_vstup7"
+                android:title="    Пільги"/>
+            <item
+                android:id="@+id/abit_nav_vstup8"
+                android:title="    Вартість навчання"/>
+            <item
+                android:id="@+id/abit_nav_vstup9"
+                android:title="    Рейтингові списки"/>
+            <item
+                android:id="@+id/abit_nav_vstup10"
+                android:title="    Зарахування"/>
+        </group>
+        <item
+            android:icon="@drawable/ic_insert_invitation_black_24dp"
+            android:id="@+id/abit_nav_vstupcalendar"
+            android:visible="false"
+            android:title="Календар вступної кампанії"/>
+        <item
+            android:icon="@drawable/ic_account_balance_gray"
+            android:id="@+id/abit_nav_instytuty"
+            android:title="Інститути"/>
+        <group
+            android:id="@+id/menu_group_inst"
+            android:visible="false"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/abit_nav_inst1"
+                android:title="    Автоматики, кібернетики та обчислювальної техніки"/>
+            <item
+                android:id="@+id/abit_nav_inst2"
+                android:title="    Агроекології та землеустрою"/>
+            <item
+                android:id="@+id/abit_nav_inst3"
+                android:title="    Будівництва та архітектури"/>
+            <item
+                android:id="@+id/abit_nav_inst4"
+                android:title="    Водного господарства та природооблаштування"/>
+            <item
+                android:id="@+id/abit_nav_inst5"
+                android:title="    Механічний"/>
+            <item
+                android:id="@+id/abit_nav_inst6"
+                android:title="    Економіки та менеджменту"/>
+            <item
+                android:id="@+id/abit_nav_inst7"
+                android:title="    Права"/>
+        </group>
+        <item
+            android:icon="@drawable/ic_help"
+            android:id="@+id/abit_nav_fq"
+            android:title="Питання та відповіді"/>
+    </group>
+    <group android:id="@+id/group_settings_id">
+        <item
+            android:icon="@drawable/ic_info_outline"
+            android:id="@+id/nav_about"
+            android:title="Про програму"/>
+        <item
+            android:icon="@drawable/ic_open_in_new"
+            android:id="@+id/nav_exits"
+            android:title="Вийти"/>
+    </group>
+</menu>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_newspaper"
+            android:id="@+id/abit_nav_news"
+            android:title="Новини"/>
+        <item
+            android:icon="@drawable/ic_assistant_photo_black_24dp"
+            android:id="@+id/abit_nav_vstup"
+            android:title="Вступна кампанія"/>
+        <item
+            android:icon="@drawable/ic_insert_invitation_black_24dp"
+            android:id="@+id/abit_nav_vstupcalendar"
+            android:title="Календар вступної кампанії"/>
+        <group
+            android:id="@+id/menu_group_vstup"
+            android:visible="false"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/abit_nav_vstupm0"
+                android:title="    Перелік спеціальностей"/>
+            <item
+                android:id="@+id/abit_nav_vstupm1"
+                android:title="    Умови прийому"/>
+            <item
+                android:id="@+id/abit_nav_vstupm2"
+                android:title="    Документи та строки прийому"/>
+            <item
+                android:id="@+id/abit_nav_vstupm3"
+                android:visible="false"
+                android:title="    Програми вступних випробувань"/>
+            <item
+                android:id="@+id/abit_nav_vstupm4"
+                android:title="    Державне замовлення"/>
+            <item
+                android:id="@+id/abit_nav_vstupm5"
+                android:title="    Розклад вступних випробувань"/>
+            <item
+                android:id="@+id/abit_nav_vstupm6"
+                android:title="    Друга вища освіта"/>
+            <item
+                android:id="@+id/abit_nav_vstupm7"
+                android:title="    Вартість навчання"/>
+            <item
+                android:id="@+id/abit_nav_vstupm8"
+                android:title="    Рейтингові списки"/>
+            <item
+                android:id="@+id/abit_nav_vstupm9"
+                android:title="    Зарахування"/>
+        </group>
+        <item
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:id="@+id/abit_nav_osvitni_prohramy"
+            android:title="Освітні програми"/>
+        <group
+            android:id="@+id/menu_group_osprog"
+            android:visible="false"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/abit_nav_osprog1"
+                android:title="    Бакалавр"/>
+            <item
+                android:id="@+id/abit_nav_osprog2"
+                android:title="    Магістр"/>
+            <item
+                android:id="@+id/abit_nav_osprog3"
+                android:title="    Аспірант"/>
+        </group>
+        <item
+            android:icon="@drawable/ic_account_balance_gray"
+            android:id="@+id/abit_nav_instytuty"
+            android:title="Інститути"/>
+        <group
+            android:id="@+id/menu_group_inst"
+            android:visible="false"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/abit_nav_inst1"
+                android:title="    Автоматики, кібернетики та обчислювальної техніки"/>
+            <item
+                android:id="@+id/abit_nav_inst2"
+                android:title="    Агроекології та землеустрою"/>
+            <item
+                android:id="@+id/abit_nav_inst3"
+                android:title="    Будівництва та архітектури"/>
+            <item
+                android:id="@+id/abit_nav_inst4"
+                android:title="    Водного господарства та природооблаштування"/>
+            <item
+                android:id="@+id/abit_nav_inst5"
+                android:title="    Механічний"/>
+            <item
+                android:id="@+id/abit_nav_inst6"
+                android:title="    Економіки та менеджменту"/>
+            <item
+                android:id="@+id/abit_nav_inst7"
+                android:title="    Права"/>
+        </group>
+        <item
+            android:icon="@drawable/ic_help"
+            android:id="@+id/abit_nav_fq"
+            android:title="Питання та відповіді"/>
+    </group>
+    <group android:id="@+id/group_settings_id">
+        <item
+            android:icon="@drawable/ic_info_outline"
+            android:id="@+id/nav_about"
+            android:title="Про програму"/>
+        <item
+            android:icon="@drawable/ic_open_in_new"
+            android:id="@+id/nav_exits"
+            android:title="Вийти"/>
+    </group>
+</menu>

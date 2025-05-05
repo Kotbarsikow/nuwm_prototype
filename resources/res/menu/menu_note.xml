@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/pin_outline"
+        android:title="Закріпити"
+        android:onClick="onPin"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="always"/>
+    <item
+        android:icon="@drawable/ic_add_alert"
+        android:title="Додати нагадування"
+        android:onClick="onClickNotification"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="always"/>
+</menu>

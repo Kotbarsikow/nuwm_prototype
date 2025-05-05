@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.DayNight" parent="@style/AppTheme.Night">
+    </style>
+    <style name="AppTheme.Dynamic" parent="@style/Theme.Material3.DayNight.NoActionBar">
+        <item name="android:colorBackground">@android:color/system_neutral2_900</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryContainer</item>
+        <item name="actionOverflowButtonStyle">@style/OverflowButtonStyle</item>
+        <item name="colorAccent">?attr/colorOnPrimaryContainer</item>
+        <item name="colorAccentLight">@android:color/system_accent3_800</item>
+        <item name="colorAvailable">@android:color/system_accent3_700</item>
+        <item name="colorBackground">@android:color/system_neutral2_900</item>
+        <item name="colorBackgroundAccent">@color/red_800</item>
+        <item name="colorBackgroundSub">@android:color/system_accent2_800</item>
+        <item name="colorBackgroundSurface">@color/green</item>
+        <item name="colorBackgroundTop">@android:color/system_accent2_800</item>
+        <item name="colorBackgroundView">@android:color/system_accent2_700</item>
+        <item name="colorButtonNormal">@color/color_debug</item>
+        <item name="colorControlHighlight">@android:color/system_accent2_700</item>
+        <item name="colorControlNormal">?attr/colorTint</item>
+        <item name="colorError">@color/purple</item>
+        <item name="colorErrorContainer">@color/purple</item>
+        <item name="colorErrorText">?attr/colorOnErrorContainer</item>
+        <item name="colorIconStroke">@color/purple</item>
+        <item name="colorInnerIconDark">@android:color/system_accent2_900</item>
+        <item name="colorMonochromaticBlue">@android:color/system_accent2_700</item>
+        <item name="colorOkText">@color/purple</item>
+        <item name="colorOnBackground">@color/green</item>
+        <item name="colorOnError">@color/purple</item>
+        <item name="colorOnErrorContainer">@color/redDark</item>
+        <item name="colorOnPrimary">@color/green</item>
+        <item name="colorOnPrimaryContainer">@android:color/system_accent1_200</item>
+        <item name="colorOnSecondary">@android:color/system_accent2_800</item>
+        <item name="colorOnSecondaryContainer">@android:color/system_accent2_100</item>
+        <item name="colorOnSurface">@android:color/system_neutral1_400</item>
+        <item name="colorOnSurfaceInverse">@android:color/system_neutral1_200</item>
+        <item name="colorOnSurfaceVariant">@android:color/system_neutral1_300</item>
+        <item name="colorOnTertiary">@color/color_debug</item>
+        <item name="colorOnTertiaryContainer">@color/color_debug</item>
+        <item name="colorOutline">@android:color/system_accent2_500</item>
+        <item name="colorPrimary">@android:color/system_accent1_200</item>
+        <item name="colorPrimaryContainer">@android:color/system_accent2_800</item>
+        <item name="colorPrimaryDark">@android:color/system_accent1_700</item>
+        <item name="colorPrimaryInverse">@color/color_debug</item>
+        <item name="colorSecondary">@android:color/system_accent2_200</item>
+        <item name="colorSecondaryContainer">@android:color/system_accent2_700</item>
+        <item name="colorSurface">@color/green</item>
+        <item name="colorSurfaceInverse">@android:color/system_accent2_700</item>
+        <item name="colorSurfaceVariant">@android:color/system_neutral1_700</item>
+        <item name="colorTertiary">@color/color_debug</item>
+        <item name="colorTertiaryContainer">@color/color_debug</item>
+        <item name="colorTextLight">@color/red_800</item>
+        <item name="colorTextMain">@android:color/system_neutral2_100</item>
+        <item name="colorTextSub">@android:color/system_neutral2_400</item>
+        <item name="colorTextTitle">@android:color/system_accent1_50</item>
+        <item name="colorTint">@android:color/system_accent1_300</item>
+        <item name="dialogCornerRadius">16dp</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="popupOverlayStyle">@style/PopupMenuMaterial</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat">
+    </style>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@style/Theme.AppCompat">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@style/Theme.AppCompat.Dialog">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@style/Theme.AppCompat.Dialog.Alert">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="@style/Theme.AppCompat.Dialog.MinWidth">
+    </style>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="@style/Theme.AppCompat.DialogWhenLarge">
+    </style>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@style/Theme.AppCompat.NoActionBar">
+    </style>
+    <style name="Theme.Material3.DayNight" parent="@style/Theme.Material3.Dark">
+    </style>
+    <style name="Theme.Material3.DayNight.BottomSheetDialog" parent="@style/Theme.Material3.Dark.BottomSheetDialog">
+    </style>
+    <style name="Theme.Material3.DayNight.Dialog" parent="@style/Theme.Material3.Dark.Dialog">
+    </style>
+    <style name="Theme.Material3.DayNight.Dialog.Alert" parent="@style/Theme.Material3.Dark.Dialog.Alert">
+    </style>
+    <style name="Theme.Material3.DayNight.Dialog.MinWidth" parent="@style/Theme.Material3.Dark.Dialog.MinWidth">
+    </style>
+    <style name="Theme.Material3.DayNight.DialogWhenLarge" parent="@style/Theme.Material3.Dark.DialogWhenLarge">
+    </style>
+    <style name="Theme.Material3.DayNight.NoActionBar" parent="@style/Theme.Material3.Dark.NoActionBar">
+    </style>
+    <style name="Theme.Material3.DynamicColors.DayNight" parent="@style/Theme.Material3.DynamicColors.Dark">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight" parent="@style/Theme.MaterialComponents">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="@style/Theme.MaterialComponents.BottomSheetDialog">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="@style/Theme.MaterialComponents.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="@style/Theme.MaterialComponents">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="@style/Theme.MaterialComponents.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="@style/Theme.MaterialComponents.Dialog">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="@style/Theme.MaterialComponents.Dialog.Alert">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="@style/Theme.MaterialComponents.Dialog.Alert.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="@style/Theme.MaterialComponents.Dialog.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="@style/Theme.MaterialComponents.Dialog.FixedSize">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="@style/Theme.MaterialComponents.Dialog.FixedSize.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="@style/Theme.MaterialComponents.Dialog.MinWidth">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="@style/Theme.MaterialComponents.Dialog.MinWidth.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="@style/Theme.MaterialComponents.DialogWhenLarge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="@style/Theme.MaterialComponents.NoActionBar">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="@style/Theme.MaterialComponents.NoActionBar.Bridge">
+    </style>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="@style/ThemeOverlay.AppCompat.Dark">
+    </style>
+    <style name="ThemeOverlay.Material3.DynamicColors.DayNight" parent="@style/ThemeOverlay.Material3.DynamicColors.Dark">
+    </style>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="@style/Widget.MaterialComponents.ActionBar.Surface">
+    </style>
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.AppBarLayout.Surface">
+    </style>
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomAppBar">
+    </style>
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomNavigationView">
+    </style>
+    <style name="Widget.MaterialComponents.NavigationRailView.PrimarySurface" parent="@style/Widget.MaterialComponents.NavigationRailView">
+    </style>
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.TabLayout">
+    </style>
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="@style/Widget.MaterialComponents.Toolbar.Surface">
+    </style>
+</resources>

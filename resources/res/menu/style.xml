@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/italic"
+        android:title="Курсив"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/bold"
+        android:title="Жирний"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/underline"
+        android:title="Підкреслений"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/small"
+        android:title="Зменшити"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/large"
+        android:title="Збільшити"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/color_background"
+        android:title="Колір фону"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/color_foreground"
+        android:title="Колір тексту"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/url"
+        android:visible="false"
+        android:title="Вставити посилання"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/clear"
+        android:title="Очистити форматування"
+        app:showAsAction="always"/>
+</menu>

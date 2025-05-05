@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/pin_outline"
+        android:visible="false"
+        android:title="Сортувати за іменем"
+        android:onClick="onSort"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@drawable/ic_add_alert"
+        android:visible="false"
+        android:title="Сортувати за іменем оцінкою"
+        android:onClick="onSort"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@drawable/ic_share"
+        android:visible="true"
+        android:title="Поділитися"
+        android:onClick="onShare"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="always"/>
+</menu>

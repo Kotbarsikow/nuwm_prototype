@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="44dp"
+    android:foreground="?attr/selectableItemBackground"
+    app:cardCornerRadius="3dp"
+    app:cardElevation="0dp"
+    app:cardUseCompatPadding="true"
+    app:strokeColor="?attr/colorBackgroundSub"
+    app:strokeWidth="1dp">
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:background="?attr/colorBackground"
+        android:padding="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:max="100"
+        android:progress="40"
+        android:indeterminate="false"
+        android:progressDrawable="@drawable/progress_poll"
+        style="?android:attr/progressBarStyleHorizontal"/>
+    <TextView
+        android:textColor="?attr/colorTextSub"
+        android:gravity="center_vertical"
+        android:id="@+id/text"
+        android:paddingLeft="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+    <TextView
+        android:textColor="?attr/colorTextSub"
+        android:gravity="center_vertical"
+        android:layout_gravity="right"
+        android:id="@+id/percent"
+        android:paddingRight="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+</com.google.android.material.card.MaterialCardView>

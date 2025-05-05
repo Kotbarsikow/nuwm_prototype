@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all_inplan">Всього: %1$s годин</string>
+    <string name="channel_id1_description">Інформаційні повідомлення</string>
+    <string name="channel_id1_name">Загальні сповіщення</string>
+    <string name="channel_id2_description">Оновлення оцінок тощо</string>
+    <string name="channel_id2_name">Успішність</string>
+    <string name="channel_id3_description">Відповіді та призначені запити</string>
+    <string name="channel_id3_name">Helpdesk</string>
+    <string name="ects_credits">Кредити ЄКТС: %1$s</string>
+    <string name="from_people">Від: %1$s</string>
+    <string name="hint_eventadd">Створення подій у календарі\nВи може легко створити подію та відеодзвінок Google Meet в календарі для всіх учасників заняття (студентів групи). Для цього натисніть Створити подію Google Meet при додаванні події. Всі учасники отримають запрошення на свою електронну скриньку. \n\nЯкщо ви оберете  Створити подію для себе  вам буде необхідо самостійно додавати усіх учасників.</string>
+    <string name="join_to_meet">Join a meeting</string>
+    <string name="lab_inplan">Лабораторні: %1$s</string>
+    <string name="lect_inplan">Лекції: %1$s</string>
+    <string name="lesson_type">Lesson type</string>
+    <string name="location">Venue</string>
+    <string name="members">Participants</string>
+    <string name="merge_lesson">This class was created by merging with a similar calendar event.</string>
+    <string name="no_data">Дані відсутні</string>
+    <string name="no_email">Don\'t have a corporate email?</string>
+    <string name="no_lesson">No classes on this day</string>
+    <string name="prs_inplan">Практ/Семінари: %1$s</string>
+    <string name="related_lesson">Related class in the schedule</string>
+    <string name="show_lesson">View classes</string>
+    <string name="signin_by_google">Sign in with Google</string>
+    <string name="srs_inplan">СРС: %1$s</string>
+    <string name="teacher">Teacher</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="wtf_inplan">КП,КР/Кр/РГР: %1$s</string>
+</resources>

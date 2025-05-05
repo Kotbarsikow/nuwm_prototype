@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Dynamic" parent="@style/Theme.Material3.DayNight.NoActionBar">
+        <item name="android:colorBackground">@color/purple</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryContainer</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="actionOverflowButtonStyle">@style/OverflowButtonStyle</item>
+        <item name="colorAccent">?attr/colorOnPrimaryContainer</item>
+        <item name="colorAccentLight">@color/purple</item>
+        <item name="colorAvailable">@color/purple</item>
+        <item name="colorBackground">@color/purple</item>
+        <item name="colorBackgroundAccent">@color/purple</item>
+        <item name="colorBackgroundSub">@color/purple</item>
+        <item name="colorBackgroundSurface">@color/purple</item>
+        <item name="colorBackgroundTop">@color/purple</item>
+        <item name="colorBackgroundView">@color/purple</item>
+        <item name="colorButtonNormal">@color/purple</item>
+        <item name="colorControlHighlight">@color/purple</item>
+        <item name="colorControlNormal">?attr/colorTint</item>
+        <item name="colorError">@color/purple</item>
+        <item name="colorErrorContainer">@color/purple</item>
+        <item name="colorErrorText">@color/purple</item>
+        <item name="colorIconStroke">@color/purple</item>
+        <item name="colorInnerIconDark">@color/purple</item>
+        <item name="colorMonochromaticBlue">@color/purple</item>
+        <item name="colorOkText">@color/purple</item>
+        <item name="colorOnBackground">@color/purple</item>
+        <item name="colorOnError">@color/purple</item>
+        <item name="colorOnErrorContainer">@color/purple</item>
+        <item name="colorOnPrimary">@color/purple</item>
+        <item name="colorOnPrimaryContainer">@color/purple</item>
+        <item name="colorOnSecondary">@color/purple</item>
+        <item name="colorOnSecondaryContainer">@color/purple</item>
+        <item name="colorOnSurface">@color/purple</item>
+        <item name="colorOnSurfaceInverse">@color/purple</item>
+        <item name="colorOnSurfaceVariant">@color/purple</item>
+        <item name="colorOnTertiary">@color/purple</item>
+        <item name="colorOnTertiaryContainer">@color/purple</item>
+        <item name="colorOutline">@color/purple</item>
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryContainer">@android:color/system_accent1_100</item>
+        <item name="colorPrimaryDark">@color/purple</item>
+        <item name="colorPrimaryInverse">@color/purple</item>
+        <item name="colorSecondary">@color/purple</item>
+        <item name="colorSecondaryContainer">@color/purple</item>
+        <item name="colorSurface">@color/purple</item>
+        <item name="colorSurfaceInverse">@color/purple</item>
+        <item name="colorSurfaceVariant">@color/purple</item>
+        <item name="colorTertiary">@color/purple</item>
+        <item name="colorTertiaryContainer">@color/purple</item>
+        <item name="colorTextLight">@color/purple</item>
+        <item name="colorTextMain">@color/purple</item>
+        <item name="colorTextSub">@color/purple</item>
+        <item name="colorTextTitle">@color/purple</item>
+        <item name="colorTint">@color/purple</item>
+        <item name="dialogCornerRadius">16dp</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="popupOverlayStyle">@style/PopupMenuMaterial</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.Night" parent="@style/Theme.Material3.Dark.NoActionBar">
+        <item name="android:colorBackground">@color/base_950_shade</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryContainer</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="actionOverflowButtonStyle">@style/OverflowButtonStyle</item>
+        <item name="colorAccent">?attr/colorOnPrimaryContainer</item>
+        <item name="colorAccentLight">@color/base_ext_palette1</item>
+        <item name="colorAvailable">@color/base_b_shade_690</item>
+        <item name="colorBackground">?android:attr/colorBackground</item>
+        <item name="colorBackgroundAccent">@color/colorBackgroundAccentWhite</item>
+        <item name="colorBackgroundSub">@color/md_theme_dark_secondaryContainer</item>
+        <item name="colorBackgroundSurface">@color/base_ext_palette12</item>
+        <item name="colorBackgroundTop">@color/rtregr</item>
+        <item name="colorBackgroundView">?attr/colorSurface</item>
+        <item name="colorButtonNormal">@color/purple</item>
+        <item name="colorControlHighlight">@color/colorPrimaryBlueTransparent</item>
+        <item name="colorControlNormal">?attr/colorTint</item>
+        <item name="colorError">@color/md_theme_dark_error</item>
+        <item name="colorErrorContainer">@color/md_theme_dark_errorContainer</item>
+        <item name="colorErrorText">@color/red_800</item>
+        <item name="colorIconStroke">@color/grey_50</item>
+        <item name="colorInnerIconDark">@color/material_black</item>
+        <item name="colorMonochromaticBlue">@color/md_theme_light_secondary</item>
+        <item name="colorOkText">@color/green</item>
+        <item name="colorOnBackground">@color/md_theme_light_background</item>
+        <item name="colorOnError">@color/md_theme_dark_onError</item>
+        <item name="colorOnErrorContainer">@color/md_theme_dark_onErrorContainer</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="colorOnPrimaryContainer">@color/base_ext_palette11</item>
+        <item name="colorOnSecondary">@color/md_theme_dark_onSecondary</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_dark_onSecondaryContainer</item>
+        <item name="colorOnSurface">@color/md_theme_dark_secondary</item>
+        <item name="colorOnSurfaceInverse">@color/md_theme_light_inverseOnSurface</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_dark_onSurfaceVariant</item>
+        <item name="colorOnTertiary">@color/md_theme_dark_onTertiary</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_dark_onPrimary</item>
+        <item name="colorOutline">@color/base_ext_palette1</item>
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorPrimaryContainer">@color/base_b_shade_700</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryInverse">@color/md_theme_light_primaryInverse</item>
+        <item name="colorSecondary">@color/md_theme_dark_secondary</item>
+        <item name="colorSecondaryContainer">@color/base_complementary_900</item>
+        <item name="colorSurface">@color/rtregr</item>
+        <item name="colorSurfaceInverse">@color/md_theme_light_inverseSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_dark_surfaceVariant</item>
+        <item name="colorTertiary">@color/md_theme_dark_tertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_dark_tertiaryContainer</item>
+        <item name="colorTextLight">@color/material_dark</item>
+        <item name="colorTextMain">@color/grey_75</item>
+        <item name="colorTextSub">@color/grey_400</item>
+        <item name="colorTextTitle">@color/grey_50</item>
+        <item name="colorTint">@color/base_ext_palette12</item>
+        <item name="dialogCornerRadius">16dp</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="popupOverlayStyle">@style/PopupMenuMaterial</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.White" parent="@style/Theme.Material3.Light.NoActionBar">
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryContainer</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="actionOverflowButtonStyle">@style/OverflowButtonStyle</item>
+        <item name="colorAccent">?attr/colorOnPrimaryContainer</item>
+        <item name="colorAccentLight">@color/colorPrimaryMaterial</item>
+        <item name="colorAvailable">@color/base_150f_shade</item>
+        <item name="colorBackground">?android:attr/colorBackground</item>
+        <item name="colorBackgroundAccent">@color/colorBackgroundAccentWhite</item>
+        <item name="colorBackgroundSub">@color/grey_300</item>
+        <item name="colorBackgroundSurface">@color/base_ext_palette12</item>
+        <item name="colorBackgroundTop">@color/white</item>
+        <item name="colorBackgroundView">?attr/colorSurface</item>
+        <item name="colorButtonNormal">@color/colorPrimaryMaterial</item>
+        <item name="colorControlHighlight">@color/colorPrimaryBlueTransparent</item>
+        <item name="colorControlNormal">?attr/colorTint</item>
+        <item name="colorError">@color/md_theme_light_error</item>
+        <item name="colorErrorContainer">@color/md_theme_light_errorContainer</item>
+        <item name="colorErrorText">@color/red_800</item>
+        <item name="colorIconStroke">@android:color/black</item>
+        <item name="colorInnerIconDark">@android:color/black</item>
+        <item name="colorMonochromaticBlue">@color/base_monochromatic_250</item>
+        <item name="colorOkText">@color/green</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorOnError">@color/md_theme_light_onError</item>
+        <item name="colorOnErrorContainer">@color/md_theme_light_onErrorContainer</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_onPrimaryContainer</item>
+        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_light_onSecondaryContainer</item>
+        <item name="colorOnSurface">@color/md_theme_light_onSurface</item>
+        <item name="colorOnSurfaceInverse">@color/md_theme_light_inverseOnSurface</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_light_onSurfaceVariant</item>
+        <item name="colorOnTertiary">@color/md_theme_light_onTertiary</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_light_onTertiaryContainer</item>
+        <item name="colorOutline">@color/md_theme_light_outline</item>
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryInverse">@color/md_theme_light_primaryInverse</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_light_secondaryContainer</item>
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+        <item name="colorSurfaceInverse">@color/md_theme_light_inverseSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_light_surfaceVariant</item>
+        <item name="colorTertiary">@color/md_theme_light_tertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_light_tertiaryContainer</item>
+        <item name="colorTextLight">@color/grey_50</item>
+        <item name="colorTextMain">@color/grey_900</item>
+        <item name="colorTextSub">@color/grey_new</item>
+        <item name="colorTextTitle">@color/material_dark</item>
+        <item name="colorTint">@color/greyTint</item>
+        <item name="dialogCornerRadius">16dp</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="popupOverlayStyle">@style/PopupMenuMaterial</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.Button.Inverse" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse">
+    </style>
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V23.Theme.AppCompat">
+    </style>
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V23.Theme.AppCompat.Light">
+    </style>
+    <style name="Base.V23.Theme.AppCompat" parent="@style/Base.V22.Theme.AppCompat">
+        <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:attr/actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:attr/actionMenuTextColor</item>
+        <item name="actionOverflowButtonStyle">?android:attr/actionOverflowButtonStyle</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+        <item name="ratingBarStyleIndicator">?android:attr/ratingBarStyleIndicator</item>
+        <item name="ratingBarStyleSmall">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="Base.V23.Theme.AppCompat.Light" parent="@style/Base.V22.Theme.AppCompat.Light">
+        <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:attr/actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:attr/actionMenuTextColor</item>
+        <item name="actionOverflowButtonStyle">?android:attr/actionOverflowButtonStyle</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+        <item name="ratingBarStyleIndicator">?android:attr/ratingBarStyleIndicator</item>
+        <item name="ratingBarStyleSmall">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.Overflow" parent="@android:style/Widget.Material.ActionButton.Overflow">
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Borderless.Colored" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Colored" parent="@android:style/Widget.Material.Button.Colored">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.Button.Colored</item>
+    </style>
+    <style name="Base.Widget.AppCompat.EditText" parent="@android:style/Widget.Material.EditText">
+        <item name="android:breakStrategy">simple</item>
+        <item name="android:hyphenationFrequency">none</item>
+    </style>
+    <style name="Base.Widget.AppCompat.RatingBar.Indicator" parent="@android:style/Widget.Material.RatingBar.Indicator">
+    </style>
+    <style name="Base.Widget.AppCompat.RatingBar.Small" parent="@android:style/Widget.Material.RatingBar.Small">
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner.Underlined" parent="@android:style/Widget.Material.Spinner.Underlined">
+    </style>
+    <style name="Base.Widget.AppCompat.TextView" parent="@android:style/Widget.Material.TextView">
+        <item name="android:breakStrategy">high_quality</item>
+        <item name="android:hyphenationFrequency">none</item>
+    </style>
+    <style name="CardView" parent="@style/Base.CardView">
+        <item name="cardBackgroundColor">?android:attr/colorBackgroundFloating</item>
+    </style>
+    <style name="SplashTheme" parent="@style/Theme.MaterialComponents.Light">
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+    <style name="ThemeOverlay.Material3.AutoCompleteTextView" parent="@style/Base.ThemeOverlay.Material3.AutoCompleteTextView">
+        <item name="colorControlNormal">@color/m3_textfield_indicator_text_color</item>
+    </style>
+    <style name="ThemeOverlay.Material3.TextInputEditText" parent="@style/Base.ThemeOverlay.Material3.TextInputEditText">
+        <item name="colorControlNormal">@color/m3_textfield_indicator_text_color</item>
+    </style>
+    <style name="Widget.Material3.ActionBar.Solid" parent="@style/Base.Widget.Material3.ActionBar.Solid">
+        <item name="background">@drawable/m3_appbar_background</item>
+        <item name="backgroundSplit">@drawable/m3_appbar_background</item>
+        <item name="backgroundStacked">@drawable/m3_appbar_background</item>
+    </style>
+    <style name="Widget.Material3.ActionMode" parent="@style/Base.Widget.Material3.ActionMode">
+        <item name="background">@drawable/m3_appbar_background</item>
+        <item name="backgroundSplit">@drawable/m3_appbar_background</item>
+    </style>
+    <style name="Widget.Material3.CompoundButton.CheckBox" parent="@style/Base.Widget.Material3.CompoundButton.CheckBox">
+        <item name="android:background">@drawable/m3_selection_control_ripple</item>
+    </style>
+    <style name="Widget.Material3.CompoundButton.RadioButton" parent="@style/Base.Widget.Material3.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/m3_radiobutton_ripple</item>
+    </style>
+    <style name="Widget.Material3.CompoundButton.Switch" parent="@style/Base.Widget.Material3.CompoundButton.Switch">
+        <item name="android:background">@drawable/m3_selection_control_ripple</item>
+    </style>
+    <style name="Widget.Material3.Light.ActionBar.Solid" parent="@style/Base.Widget.Material3.Light.ActionBar.Solid">
+        <item name="background">@drawable/m3_appbar_background</item>
+        <item name="backgroundSplit">@drawable/m3_appbar_background</item>
+        <item name="backgroundStacked">@drawable/m3_appbar_background</item>
+    </style>
+    <style name="Widget.Material3.TabLayout.OnSurface" parent="@style/Base.Widget.Material3.TabLayout.OnSurface">
+        <item name="android:background">@drawable/m3_tabs_transparent_background</item>
+    </style>
+    <style name="Widget.MaterialComponents.PopupMenu.ContextMenu" parent="@style/Base.Widget.MaterialComponents.PopupMenu.ContextMenu">
+        <item name="android:popupBackground">?attr/popupMenuBackground</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+    <style name="Widget.MaterialComponents.PopupMenu.ListPopupWindow" parent="@style/Base.Widget.MaterialComponents.PopupMenu.ListPopupWindow">
+        <item name="android:popupBackground">?attr/popupMenuBackground</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+</resources>

@@ -1,0 +1,4305 @@
+{
+  "data": {
+    "Floors": [
+       
+  
+{
+    "Brief": "Поверх 1",
+    "ImageLayer": [],
+    "Area": 0,
+    "PubPoint": [],
+    "High": 5,
+    "Name_en": "Поверх 1",
+    "_id": 81749,
+    "Name": "Поверх 1",
+    "Outline": [
+        [
+            [
+                -1632,
+                380,
+                -2105,
+                380,
+                -2105,
+                -157,
+                -1326,
+                -157,
+                -1326,
+                -374,
+                -715,
+                -374,
+                -715,
+                -157,
+                2100,
+                -157,
+                2100,
+                380,
+                -462,
+                380,
+                -462,
+                552,
+                -898,
+                552,
+                -898,
+                380,
+                -942,
+                380,
+                -942,
+                553,
+                -1632,
+                553
+            ]
+        ]
+    ],
+    "FuncAreas": [
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 103,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                -2023.5,
+                250
+            ],
+            "Outline": [
+                [
+                    [
+                        -1959,
+                        365,
+                        -1959,
+                        135,
+                        -2088,
+                        135,
+                        -2088,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 104,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                -1794.5,
+                250
+            ],
+            "Outline": [
+                [
+                    [
+                        -1630,
+                        365,
+                        -1630,
+                        135,
+                        -1959,
+                        135,
+                        -1959,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 105,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                -1859,
+                -11
+            ],
+            "Outline": [
+                [
+                    [
+                        -1630,
+                        135,
+                        -1630,
+                        -157,
+                        -2088,
+                        -157,
+                        -2088,
+                        135
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 106,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "200Б",
+            "Name_en": "200Б",
+            "Area": 0,
+            "Name": "200Б",
+            "BrandShop": 102,
+            "Center": [
+                -1551.5,
+                456
+            ],
+            "Outline": [
+                [
+                    [
+                        -1473,
+                        547,
+                        -1473,
+                        365,
+                        -1630,
+                        365,
+                        -1630,
+                        547
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 107,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "200А",
+            "Name_en": "200А",
+            "Area": 0,
+            "Name": "200А",
+            "BrandShop": 102,
+            "Center": [
+                -1388,
+                456
+            ],
+            "Outline": [
+                [
+                    [
+                        -1303,
+                        547,
+                        -1303,
+                        365,
+                        -1473,
+                        365,
+                        -1473,
+                        547
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 108,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "200",
+            "Name_en": "200",
+            "Area": 0,
+            "Name": "200",
+            "BrandShop": 102,
+            "Center": [
+                -1125,
+                456
+            ],
+            "Outline": [
+                [
+                    [
+                        -947,
+                        547,
+                        -947,
+                        365,
+                        -1303,
+                        365,
+                        -1303,
+                        547
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 109,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "201",
+            "Name_en": "201",
+            "Area": 0,
+            "Name": "201",
+            "BrandShop": 102,
+            "Center": [
+                -681,
+                456
+            ],
+            "Outline": [
+                [
+                    [
+                        -465,
+                        547,
+                        -465,
+                        365,
+                        -897,
+                        365,
+                        -897,
+                        547
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 110,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "-",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                -802,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -707,
+                        365,
+                        -707,
+                        136,
+                        -897,
+                        136,
+                        -897,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 111,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                -586,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -465,
+                        365,
+                        -465,
+                        136,
+                        -707,
+                        136,
+                        -707,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 112,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "202",
+            "Name_en": "202",
+            "Area": 0,
+            "Name": "202",
+            "BrandShop": 102,
+            "Center": [
+                -398.5,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -332,
+                        365,
+                        -332,
+                        136,
+                        -465,
+                        136,
+                        -465,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 113,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "204",
+            "Name_en": "204",
+            "Area": 0,
+            "Name": "204",
+            "BrandShop": 102,
+            "Center": [
+                214.5,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        331,
+                        365,
+                        331,
+                        136,
+                        98,
+                        136,
+                        98,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 114,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": " ",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": " ",
+            "BrandShop": 102,
+            "Center": [
+                381,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        431,
+                        365,
+                        431,
+                        136,
+                        331,
+                        136,
+                        331,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 115,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "206",
+            "Name_en": "206",
+            "Area": 0,
+            "Name": "206",
+            "BrandShop": 102,
+            "Center": [
+                480.5,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        530,
+                        365,
+                        530,
+                        136,
+                        431,
+                        136,
+                        431,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 116,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                596,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        662,
+                        365,
+                        662,
+                        136,
+                        530,
+                        136,
+                        530,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 117,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "203",
+            "Name_en": "203",
+            "Area": 0,
+            "Name": "203",
+            "BrandShop": 102,
+            "Center": [
+                -117,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        98,
+                        365,
+                        98,
+                        136,
+                        -332,
+                        136,
+                        -332,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 118,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                714,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        766,
+                        365,
+                        766,
+                        136,
+                        662,
+                        136,
+                        662,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 119,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                865.5,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        965,
+                        365,
+                        965,
+                        136,
+                        766,
+                        136,
+                        766,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 120,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "208А",
+            "Name_en": "208А",
+            "Area": 0,
+            "Name": "208А",
+            "BrandShop": 102,
+            "Center": [
+                1047.5,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1130,
+                        365,
+                        1130,
+                        136,
+                        965,
+                        136,
+                        965,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 121,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "208",
+            "Name_en": "208",
+            "Area": 0,
+            "Name": "208",
+            "BrandShop": 102,
+            "Center": [
+                1213.5,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1297,
+                        365,
+                        1297,
+                        136,
+                        1130,
+                        136,
+                        1130,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 122,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "209А",
+            "Name_en": "209А",
+            "Area": 0,
+            "Name": "209А",
+            "BrandShop": 102,
+            "Center": [
+                1446.5,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1596,
+                        365,
+                        1596,
+                        136,
+                        1297,
+                        136,
+                        1297,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 123,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "209Б",
+            "Name_en": "209Б",
+            "Area": 0,
+            "Name": "209Б",
+            "BrandShop": 102,
+            "Center": [
+                1792.5,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1989,
+                        365,
+                        1989,
+                        136,
+                        1596,
+                        136,
+                        1596,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 124,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "209",
+            "Name_en": "209",
+            "Area": 0,
+            "Name": "209",
+            "BrandShop": 102,
+            "Center": [
+                2041.5,
+                250.5
+            ],
+            "Outline": [
+                [
+                    [
+                        2094,
+                        365,
+                        2094,
+                        136,
+                        1989,
+                        136,
+                        1989,
+                        365
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 125,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": " ",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": " ",
+            "BrandShop": 102,
+            "Center": [
+                -684.5,
+                -53.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -563,
+                        49,
+                        -563,
+                        -156,
+                        -806,
+                        -156,
+                        -806,
+                        49
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 126,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": " ",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": " ",
+            "BrandShop": 102,
+            "Center": [
+                -450.5,
+                -53.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -338,
+                        49,
+                        -338,
+                        -156,
+                        -563,
+                        -156,
+                        -563,
+                        49
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 127,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "212",
+            "Name_en": "212",
+            "Area": 0,
+            "Name": "212",
+            "BrandShop": 102,
+            "Center": [
+                -185.5,
+                -53.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -33,
+                        49,
+                        -33,
+                        -156,
+                        -338,
+                        -156,
+                        -338,
+                        49
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 128,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                101,
+                -53.5
+            ],
+            "Outline": [
+                [
+                    [
+                        235,
+                        49,
+                        235,
+                        -156,
+                        -33,
+                        -156,
+                        -33,
+                        49
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 129,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                515.5,
+                -53.5
+            ],
+            "Outline": [
+                [
+                    [
+                        796,
+                        49,
+                        796,
+                        -156,
+                        235,
+                        -156,
+                        235,
+                        49
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 130,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "211",
+            "Name_en": "211",
+            "Area": 0,
+            "Name": "211",
+            "BrandShop": 102,
+            "Center": [
+                1228,
+                -53.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1660,
+                        49,
+                        1660,
+                        -156,
+                        796,
+                        -156,
+                        796,
+                        49
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 131,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "210",
+            "Name_en": "210",
+            "Area": 0,
+            "Name": "210",
+            "BrandShop": 102,
+            "Center": [
+                1823.5,
+                -53.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1987,
+                        49,
+                        1987,
+                        -156,
+                        1660,
+                        -156,
+                        1660,
+                        49
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 132,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                2036.5,
+                -53.5
+            ],
+            "Outline": [
+                [
+                    [
+                        2086,
+                        49,
+                        2086,
+                        -156,
+                        1987,
+                        -156,
+                        1987,
+                        49
+                    ]
+                ]
+            ]
+        }
+    ]
+}
+,
+{
+    "Brief": "Поверх 2",
+    "ImageLayer": [],
+    "Area": 0,
+    "PubPoint": [],
+    "High": 5,
+    "Name_en": "Поверх 2",
+    "_id": 82137,
+    "Name": "Поверх 2",
+    "Outline": [
+        [
+            [
+                2095,
+                370,
+                2095,
+                -159,
+                -2092,
+                -159,
+                -2092,
+                370
+            ]
+        ]
+    ],
+    "FuncAreas": [
+         
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 105,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "",
+            "BrandShop": 102,
+            "Center": [
+                -1860.5,
+                108
+            ],
+            "Outline": [
+                [
+                    [
+                        -1629,
+                        370,
+                        -1629,
+                        -154,
+                        -2092,
+                        -154,
+                        -2092,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 106,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "236",
+            "Name_en": "236",
+            "Area": 0,
+            "Name": "236",
+            "BrandShop": 102,
+            "Center": [
+                -1331,
+                108
+            ],
+            "Outline": [
+                [
+                    [
+                        -1033,
+                        370,
+                        -1033,
+                        -154,
+                        -1629,
+                        -154,
+                        -1629,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 107,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "237",
+            "Name_en": "237",
+            "Area": 0,
+            "Name": "237",
+            "BrandShop": 102,
+            "Center": [
+                -949,
+                253.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -865,
+                        370,
+                        -865,
+                        137,
+                        -1033,
+                        137,
+                        -1033,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 108,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "-",
+            "Name_en": "-",
+            "Area": 0,
+            "Name": "-",
+            "BrandShop": 102,
+            "Center": [
+                -652,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        -568,
+                        370,
+                        -568,
+                        138,
+                        -736,
+                        138,
+                        -736,
+                        370
+                    ]
+                ]
+            ]
+        },
+       
+{
+            "Brand": 0,
+            "Type": "0",
+            "_id": 119,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "235",
+            "Name_en": "235",
+            "Area": 0,
+            "Name": "235",
+            "BrandShop": 102,
+            "Center": [
+                -900,
+                -38.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -833,
+                        60,
+                        -833,
+                        -154,
+                        -1033,
+                        -154,
+                        -1033,
+                        60
+                    ]
+                ]
+            ]
+        },
+	   {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 109,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "234",
+            "Name_en": "234",
+            "Area": 0,
+            "Name": "234",
+            "BrandShop": 102,
+            "Center": [
+                -700,
+                -38.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -567,
+                        60,
+                        -567,
+                        -154,
+                        -833,
+                        -154,
+                        -833,
+                        60
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 110,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "213",
+            "Name_en": "213",
+            "Area": 0,
+            "Name": "213",
+            "BrandShop": 102,
+            "Center": [
+                -452.5,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        -337,
+                        370,
+                        -337,
+                        138,
+                        -568,
+                        138,
+                        -568,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 111,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "214",
+            "Name_en": "214",
+            "Area": 0,
+            "Name": "214",
+            "BrandShop": 102,
+            "Center": [
+                -287.5,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        -238,
+                        370,
+                        -238,
+                        138,
+                        -337,
+                        138,
+                        -337,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 112,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "215",
+            "Name_en": "215",
+            "Area": 0,
+            "Name": "215",
+            "BrandShop": 102,
+            "Center": [
+                -108.5,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        21,
+                        370,
+                        21,
+                        138,
+                        -238,
+                        138,
+                        -238,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 113,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "216",
+            "Name_en": "216",
+            "Area": 0,
+            "Name": "216",
+            "BrandShop": 102,
+            "Center": [
+                142,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        263,
+                        370,
+                        263,
+                        138,
+                        21,
+                        138,
+                        21,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 114,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "217",
+            "Name_en": "217",
+            "Area": 0,
+            "Name": "217",
+            "BrandShop": 102,
+            "Center": [
+                332,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        401,
+                        370,
+                        401,
+                        138,
+                        263,
+                        138,
+                        263,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 115,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "218",
+            "Name_en": "218",
+            "Area": 0,
+            "Name": "218",
+            "BrandShop": 102,
+            "Center": [
+                466,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        531,
+                        370,
+                        531,
+                        138,
+                        401,
+                        138,
+                        401,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 116,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "219",
+            "Name_en": "219",
+            "Area": 0,
+            "Name": "219",
+            "BrandShop": 102,
+            "Center": [
+                596,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        661,
+                        370,
+                        661,
+                        138,
+                        531,
+                        138,
+                        531,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 117,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": " ",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": " ",
+            "BrandShop": 102,
+            "Center": [
+                715,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        769,
+                        370,
+                        769,
+                        138,
+                        661,
+                        138,
+                        661,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 118,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": " ",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": " ",
+            "BrandShop": 102,
+            "Center": [
+                834,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        899,
+                        370,
+                        899,
+                        138,
+                        769,
+                        138,
+                        769,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 119,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "220",
+            "Name_en": "220",
+            "Area": 0,
+            "Name": "220",
+            "BrandShop": 102,
+            "Center": [
+                1063,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        1227,
+                        370,
+                        1227,
+                        138,
+                        899,
+                        138,
+                        899,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 120,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "221",
+            "Name_en": "221",
+            "Area": 0,
+            "Name": "221",
+            "BrandShop": 102,
+            "Center": [
+                1424,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        1621,
+                        370,
+                        1621,
+                        138,
+                        1227,
+                        138,
+                        1227,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 121,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "221А",
+            "Name_en": "221А",
+            "Area": 0,
+            "Name": "221А",
+            "BrandShop": 102,
+            "Center": [
+                1689.5,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        1758,
+                        370,
+                        1758,
+                        138,
+                        1621,
+                        138,
+                        1621,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 122,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "222",
+            "Name_en": "222",
+            "Area": 0,
+            "Name": "222",
+            "BrandShop": 102,
+            "Center": [
+                1823,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        1888,
+                        370,
+                        1888,
+                        138,
+                        1758,
+                        138,
+                        1758,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 123,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "223",
+            "Name_en": "223",
+            "Area": 0,
+            "Name": "223",
+            "BrandShop": 102,
+            "Center": [
+                1986,
+                254
+            ],
+            "Outline": [
+                [
+                    [
+                        2084,
+                        370,
+                        2084,
+                        138,
+                        1888,
+                        138,
+                        1888,
+                        370
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 124,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "233",
+            "Name_en": "233",
+            "Area": 0,
+            "Name": "233",
+            "BrandShop": 102,
+            "Center": [
+                -516.5,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -466,
+                        53,
+                        -466,
+                        -154,
+                        -567,
+                        -154,
+                        -567,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 125,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "232",
+            "Name_en": "232",
+            "Area": 0,
+            "Name": "232",
+            "BrandShop": 102,
+            "Center": [
+                -400.5,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -335,
+                        53,
+                        -335,
+                        -154,
+                        -466,
+                        -154,
+                        -466,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 126,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "231",
+            "Name_en": "231",
+            "Area": 0,
+            "Name": "231",
+            "BrandShop": 102,
+            "Center": [
+                -270,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -205,
+                        53,
+                        -205,
+                        -154,
+                        -335,
+                        -154,
+                        -335,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 127,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "230",
+            "Name_en": "230",
+            "Area": 0,
+            "Name": "230",
+            "BrandShop": 102,
+            "Center": [
+                -120.5,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -36,
+                        53,
+                        -36,
+                        -154,
+                        -205,
+                        -154,
+                        -205,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 128,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": " ",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": " ",
+            "BrandShop": 102,
+            "Center": [
+                63,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        162,
+                        53,
+                        162,
+                        -154,
+                        -36,
+                        -154,
+                        -36,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 129,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "229",
+            "Name_en": "229",
+            "Area": 0,
+            "Name": "229",
+            "BrandShop": 102,
+            "Center": [
+                409,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        656,
+                        53,
+                        656,
+                        -154,
+                        162,
+                        -154,
+                        162,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 130,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": " ",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": " ",
+            "BrandShop": 102,
+            "Center": [
+                708.5,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        761,
+                        53,
+                        761,
+                        -154,
+                        656,
+                        -154,
+                        656,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 131,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "228",
+            "Name_en": "228",
+            "Area": 0,
+            "Name": "228",
+            "BrandShop": 102,
+            "Center": [
+                813,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        865,
+                        53,
+                        865,
+                        -154,
+                        761,
+                        -154,
+                        761,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 132,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "227",
+            "Name_en": "227",
+            "Area": 0,
+            "Name": "227",
+            "BrandShop": 102,
+            "Center": [
+                1061,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1257,
+                        53,
+                        1257,
+                        -154,
+                        865,
+                        -154,
+                        865,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 133,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "226",
+            "Name_en": "226",
+            "Area": 0,
+            "Name": "226",
+            "BrandShop": 102,
+            "Center": [
+                1390.5,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1524,
+                        53,
+                        1524,
+                        -154,
+                        1257,
+                        -154,
+                        1257,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 134,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "225",
+            "Name_en": "225",
+            "Area": 0,
+            "Name": "225",
+            "BrandShop": 102,
+            "Center": [
+                1640.5,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1757,
+                        53,
+                        1757,
+                        -154,
+                        1524,
+                        -154,
+                        1524,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 135,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "224",
+            "Name_en": "224",
+            "Area": 0,
+            "Name": "224",
+            "BrandShop": 102,
+            "Center": [
+                1921,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        2085,
+                        53,
+                        2085,
+                        -154,
+                        1757,
+                        -154,
+                        1757,
+                        53
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 136,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "136",
+            "Name_en": "136",
+            "Area": 0,
+            "Name": "136",
+            "BrandShop": 102,
+            "Center": [
+                1921,
+                -50.5
+            ],
+            "Outline": [
+                [
+                    [
+                        2085,
+                        53,
+                        2085,
+                        -154,
+                        1757,
+                        -154,
+                        1757,
+                        53
+                    ]
+                ]
+            ]
+        }
+    ]
+}
+
+,
+{
+    "Brief": "Поверх 3",
+    "ImageLayer": [],
+    "Area": 0,
+    "PubPoint": [],
+    "High": 5,
+    "Name_en": "Поверх 3",
+    "_id": 83036,
+    "Name": "Поверх 3",
+    "Outline": [
+        [
+            [
+                2095,
+                370,
+                2095,
+                -159,
+                -2092,
+                -159,
+                -2092,
+                370
+            ]
+        ]
+    ],
+    "FuncAreas": [ 
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 104,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "258А",
+            "Name_en": "258А",
+            "Area": 0,
+            "Name": "258А",
+            "BrandShop": 102,
+            "Center": [
+                -2007.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -1936,
+                        340,
+                        -1936,
+                        129,
+                        -2079,
+                        129,
+                        -2079,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 105,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "259",
+            "Name_en": "259",
+            "Area": 0,
+            "Name": "259",
+            "BrandShop": 102,
+            "Center": [
+                -1778.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -1621,
+                        340,
+                        -1621,
+                        129,
+                        -1936,
+                        129,
+                        -1936,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 106,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "", 
+            "Name_en": "260",
+            "Area": 0, 
+            "BrandShop": 102,
+            "Center": [
+                -1422,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -1223,
+                        340,
+                        -1223,
+                        129,
+                        -1621,
+                        129,
+                        -1621,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 107,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "260А",
+            "Name_en": "260А",
+            "Area": 0,
+            "Name": "260А",
+            "BrandShop": 102,
+            "Center": [
+                -1035,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -847,
+                        340,
+                        -847,
+                        129,
+                        -1223,
+                        129,
+                        -1223,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 108,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "-",
+            "Name_en": "-",
+            "Area": 0,
+            "Name": "-",
+            "BrandShop": 102,
+            "Center": [
+                -640.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -559,
+                        340,
+                        -559,
+                        129,
+                        -722,
+                        129,
+                        -722,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 109,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "109",
+            "Name_en": "238",
+            "Area": 0,
+            "Name": "109",
+            "BrandShop": 102,
+            "Center": [
+                -396.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -234,
+                        340,
+                        -234,
+                        129,
+                        -559,
+                        129,
+                        -559,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 110,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "238А",
+            "Name_en": "238А",
+            "Area": 0,
+            "Name": "110",
+            "BrandShop": 102,
+            "Center": [
+                -166,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -98,
+                        340,
+                        -98,
+                        129,
+                        -234,
+                        129,
+                        -234,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 111,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "239",
+            "Name_en": "239",
+            "Area": 0,
+            "Name": "111",
+            "BrandShop": 102,
+            "Center": [
+                -29.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        39,
+                        340,
+                        39,
+                        129,
+                        -98,
+                        129,
+                        -98,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 112,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "240",
+            "Name_en": "240",
+            "Area": 0,
+            "Name": "112",
+            "BrandShop": 102,
+            "Center": [
+                217.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        396,
+                        340,
+                        396,
+                        129,
+                        39,
+                        129,
+                        39,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 113,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "113",
+            "Name_en": "241",
+            "Area": 0,
+            "Name": "113",
+            "BrandShop": 102,
+            "Center": [
+                530.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        665,
+                        340,
+                        665,
+                        129,
+                        396,
+                        129,
+                        396,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 114,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": " ",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": " ",
+            "BrandShop": 102,
+            "Center": [
+                718,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        771,
+                        340,
+                        771,
+                        129,
+                        665,
+                        129,
+                        665,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 115,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": " ",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": " ",
+            "BrandShop": 102,
+            "Center": [
+                838.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        906,
+                        340,
+                        906,
+                        129,
+                        771,
+                        129,
+                        771,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 116,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "242",
+            "Name_en": "242",
+            "Area": 0,
+            "Name": "242",
+            "BrandShop": 102,
+            "Center": [
+                1154.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1403,
+                        340,
+                        1403,
+                        129,
+                        906,
+                        129,
+                        906,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 117,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "117",
+            "Name_en": "243",
+            "Area": 0,
+            "Name": "117",
+            "BrandShop": 102,
+            "Center": [
+                1532,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1661,
+                        340,
+                        1661,
+                        129,
+                        1403,
+                        129,
+                        1403,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 118,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "244",
+            "Name_en": "244",
+            "Area": 0,
+            "Name": "118",
+            "BrandShop": 102,
+            "Center": [
+                1875.5,
+                234.5
+            ],
+            "Outline": [
+                [
+                    [
+                        2090,
+                        340,
+                        2090,
+                        129,
+                        1661,
+                        129,
+                        1661,
+                        340
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 119,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "119",
+            "Name_en": "258",
+            "Area": 0,
+            "Name": "119",
+            "BrandShop": 102,
+            "Center": [
+                -2019,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        -1950,
+                        29,
+                        -1950,
+                        -155,
+                        -2088,
+                        -155,
+                        -2088,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 120,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "120",
+            "Name_en": "257",
+            "Area": 0,
+            "Name": "120",
+            "BrandShop": 102,
+            "Center": [
+                -1786.5,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        -1623,
+                        29,
+                        -1623,
+                        -155,
+                        -1950,
+                        -155,
+                        -1950,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 121,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "121",
+            "Name_en": "256",
+            "Area": 0,
+            "Name": "121",
+            "BrandShop": 102,
+            "Center": [
+                -1489.5,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        -1356,
+                        29,
+                        -1356,
+                        -155,
+                        -1623,
+                        -155,
+                        -1623,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 122,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "122",
+            "Name_en": "255",
+            "Area": 0,
+            "Name": "122",
+            "BrandShop": 102,
+            "Center": [
+                -1222,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        -1088,
+                        29,
+                        -1088,
+                        -155,
+                        -1356,
+                        -155,
+                        -1356,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 123,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "123",
+            "Name_en": "254",
+            "Area": 0,
+            "Name": "123",
+            "BrandShop": 102,
+            "Center": [
+                -972.5,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        -857,
+                        29,
+                        -857,
+                        -155,
+                        -1088,
+                        -155,
+                        -1088,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 124,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "124",
+            "Name_en": "253",
+            "Area": 0,
+            "Name": "124",
+            "BrandShop": 102,
+            "Center": [
+                -796,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        -735,
+                        29,
+                        -735,
+                        -155,
+                        -857,
+                        -155,
+                        -857,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 125,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "125",
+            "Name_en": "252",
+            "Area": 0,
+            "Name": "125",
+            "BrandShop": 102,
+            "Center": [
+                -648.5,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        -562,
+                        29,
+                        -562,
+                        -155,
+                        -735,
+                        -155,
+                        -735,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 126,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "126",
+            "Name_en": "251",
+            "Area": 0,
+            "Name": "126",
+            "BrandShop": 102,
+            "Center": [
+                -392.5,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        -223,
+                        29,
+                        -223,
+                        -155,
+                        -562,
+                        -155,
+                        -562,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 127,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "127",
+            "Name_en": "250",
+            "Area": 0,
+            "Name": "127",
+            "BrandShop": 102,
+            "Center": [
+                -94,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        35,
+                        29,
+                        35,
+                        -155,
+                        -223,
+                        -155,
+                        -223,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 128,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "128",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "128",
+            "BrandShop": 102,
+            "Center": [
+                100.5,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        166,
+                        29,
+                        166,
+                        -155,
+                        35,
+                        -155,
+                        35,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 129,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "129",
+            "Name_en": "249",
+            "Area": 0,
+            "Name": "129",
+            "BrandShop": 102,
+            "Center": [
+                282,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        398,
+                        29,
+                        398,
+                        -155,
+                        166,
+                        -155,
+                        166,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 130,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "130",
+            "Name_en": "248",
+            "Area": 0,
+            "Name": "130",
+            "BrandShop": 102,
+            "Center": [
+                574.5,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        751,
+                        29,
+                        751,
+                        -155,
+                        398,
+                        -155,
+                        398,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 131,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "131",
+            "Name_en": "247А",
+            "Area": 0,
+            "Name": "131",
+            "BrandShop": 102,
+            "Center": [
+                825,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        899,
+                        29,
+                        899,
+                        -155,
+                        751,
+                        -155,
+                        751,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 132,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "132",
+            "Name_en": "247",
+            "Area": 0,
+            "Name": "132",
+            "BrandShop": 102,
+            "Center": [
+                1052.5,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        1206,
+                        29,
+                        1206,
+                        -155,
+                        899,
+                        -155,
+                        899,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 133,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "133",
+            "Name_en": "246",
+            "Area": 0,
+            "Name": "133",
+            "BrandShop": 102,
+            "Center": [
+                1431,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        1656,
+                        29,
+                        1656,
+                        -155,
+                        1206,
+                        -155,
+                        1206,
+                        29
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 134,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "134",
+            "Name_en": "245",
+            "Area": 0,
+            "Name": "134",
+            "BrandShop": 102,
+            "Center": [
+                1874,
+                -63
+            ],
+            "Outline": [
+                [
+                    [
+                        2092,
+                        29,
+                        2092,
+                        -155,
+                        1656,
+                        -155,
+                        1656,
+                        29
+                    ]
+                ]
+            ]
+        }
+    ]
+}
+,
+{
+    "Brief": "Поверх 4",
+    "ImageLayer": [],
+    "Area": 0,
+    "PubPoint": [],
+    "High": 5,
+    "Name_en": "Поверх 4",
+    "_id": 83480,
+    "Name": "Поверх 4",
+    "Outline": [
+        [
+            [
+                2095,
+                370,
+                2095,
+                -159,
+                -2092,
+                -159,
+                -2092,
+                370
+            ]
+        ]
+    ],
+    "FuncAreas": [
+         
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 104,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "104",
+            "Name_en": "278",
+            "Area": 0,
+            "Name": "104",
+            "BrandShop": 102,
+            "Center": [
+                -1866.5,
+                187
+            ],
+            "Outline": [
+                [
+                    [
+                        -1652,
+                        341,
+                        -1652,
+                        33,
+                        -2081,
+                        33,
+                        -2081,
+                        341
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 105,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "105",
+            "Name_en": "279А",
+            "Area": 0,
+            "Name": "105",
+            "BrandShop": 102,
+            "Center": [
+                -1491.5,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -1424,
+                        336,
+                        -1424,
+                        121,
+                        -1559,
+                        121,
+                        -1559,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 106,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "106",
+            "Name_en": "279Б",
+            "Area": 0,
+            "Name": "106",
+            "BrandShop": 102,
+            "Center": [
+                -1308,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -1192,
+                        336,
+                        -1192,
+                        121,
+                        -1424,
+                        121,
+                        -1424,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 107,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "107",
+            "Name_en": "279В",
+            "Area": 0,
+            "Name": "107",
+            "BrandShop": 102,
+            "Center": [
+                -1131,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -1070,
+                        336,
+                        -1070,
+                        121,
+                        -1192,
+                        121,
+                        -1192,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 108,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "108",
+            "Name_en": "280",
+            "Area": 0,
+            "Name": "108",
+            "BrandShop": 102,
+            "Center": [
+                -959.5,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -849,
+                        336,
+                        -849,
+                        121,
+                        -1070,
+                        121,
+                        -1070,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 109,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "-",
+            "Name_en": "-",
+            "Area": 0,
+            "Name": "-",
+            "BrandShop": 102,
+            "Center": [
+                -643,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -556,
+                        336,
+                        -556,
+                        121,
+                        -730,
+                        121,
+                        -730,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 110,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "110",
+            "Name_en": "261",
+            "Area": 0,
+            "Name": "110",
+            "BrandShop": 102,
+            "Center": [
+                -437.5,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -319,
+                        336,
+                        -319,
+                        121,
+                        -556,
+                        121,
+                        -556,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 111,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "111",
+            "Name_en": "262",
+            "Area": 0,
+            "Name": "111",
+            "BrandShop": 102,
+            "Center": [
+                -142,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        35,
+                        336,
+                        35,
+                        121,
+                        -319,
+                        121,
+                        -319,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 112,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "112",
+            "Name_en": "263",
+            "Area": 0,
+            "Name": "112",
+            "BrandShop": 102,
+            "Center": [
+                186,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        337,
+                        336,
+                        337,
+                        121,
+                        35,
+                        121,
+                        35,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 113,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "113",
+            "Name_en": "264",
+            "Area": 0,
+            "Name": "113",
+            "BrandShop": 102,
+            "Center": [
+                501.5,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        666,
+                        336,
+                        666,
+                        121,
+                        337,
+                        121,
+                        337,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 114,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "114",
+            "Name_en": "",
+            "Area": 0,
+            "Name": "114",
+            "BrandShop": 102,
+            "Center": [
+                718.5,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        771,
+                        336,
+                        771,
+                        121,
+                        666,
+                        121,
+                        666,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 115,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "115",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": "115",
+            "BrandShop": 102,
+            "Center": [
+                869,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        967,
+                        336,
+                        967,
+                        121,
+                        771,
+                        121,
+                        771,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 116,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "116",
+            "Name_en": "265",
+            "Area": 0,
+            "Name": "116",
+            "BrandShop": 102,
+            "Center": [
+                1091.5,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1216,
+                        336,
+                        1216,
+                        121,
+                        967,
+                        121,
+                        967,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 117,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "117",
+            "Name_en": "266/267",
+            "Area": 0,
+            "Name": "117",
+            "BrandShop": 102,
+            "Center": [
+                1437.5,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1659,
+                        336,
+                        1659,
+                        121,
+                        1216,
+                        121,
+                        1216,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 118,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "118",
+            "Name_en": "267А",
+            "Area": 0,
+            "Name": "118",
+            "BrandShop": 102,
+            "Center": [
+                1810,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1961,
+                        336,
+                        1961,
+                        121,
+                        1659,
+                        121,
+                        1659,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 119,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "119",
+            "Name_en": "267Б",
+            "Area": 0,
+            "Name": "119",
+            "BrandShop": 102,
+            "Center": [
+                2025.5,
+                228.5
+            ],
+            "Outline": [
+                [
+                    [
+                        2090,
+                        336,
+                        2090,
+                        121,
+                        1961,
+                        121,
+                        1961,
+                        336
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 120,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "120",
+            "Name_en": "277",
+            "Area": 0,
+            "Name": "120",
+            "BrandShop": 102,
+            "Center": [
+                -1803,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -1525,
+                        33,
+                        -1525,
+                        -158,
+                        -2081,
+                        -158,
+                        -2081,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 121,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "121",
+            "Name_en": "276",
+            "Area": 0,
+            "Name": "121",
+            "BrandShop": 102,
+            "Center": [
+                -1275,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -1025,
+                        33,
+                        -1025,
+                        -158,
+                        -1525,
+                        -158,
+                        -1525,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 122,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "122",
+            "Name_en": "275А",
+            "Area": 0,
+            "Name": "122",
+            "BrandShop": 102,
+            "Center": [
+                -957.5,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -890,
+                        33,
+                        -890,
+                        -158,
+                        -1025,
+                        -158,
+                        -1025,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 123,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "123",
+            "Name_en": "275",
+            "Area": 0,
+            "Name": "123",
+            "BrandShop": 102,
+            "Center": [
+                -767,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -644,
+                        33,
+                        -644,
+                        -158,
+                        -890,
+                        -158,
+                        -890,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 124,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "124",
+            "Name_en": "274",
+            "Area": 0,
+            "Name": "124",
+            "BrandShop": 102,
+            "Center": [
+                -585,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -526,
+                        33,
+                        -526,
+                        -158,
+                        -644,
+                        -158,
+                        -644,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 125,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "125",
+            "Name_en": "273А",
+            "Area": 0,
+            "Name": "125",
+            "BrandShop": 102,
+            "Center": [
+                -428,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        -330,
+                        33,
+                        -330,
+                        -158,
+                        -526,
+                        -158,
+                        -526,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 126,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "126",
+            "Name_en": "273",
+            "Area": 0,
+            "Name": "126",
+            "BrandShop": 102,
+            "Center": [
+                -39.5,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        251,
+                        33,
+                        251,
+                        -158,
+                        -330,
+                        -158,
+                        -330,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 127,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "127",
+            "Name_en": " ",
+            "Area": 0,
+            "Name": "127",
+            "BrandShop": 102,
+            "Center": [
+                324,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        397,
+                        33,
+                        397,
+                        -158,
+                        251,
+                        -158,
+                        251,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 128,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "128",
+            "Name_en": "272",
+            "Area": 0,
+            "Name": "128",
+            "BrandShop": 102,
+            "Center": [
+                524.5,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        652,
+                        33,
+                        652,
+                        -158,
+                        397,
+                        -158,
+                        397,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 129,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "129",
+            "Name_en": "272А",
+            "Area": 0,
+            "Name": "129",
+            "BrandShop": 102,
+            "Center": [
+                717,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        782,
+                        33,
+                        782,
+                        -158,
+                        652,
+                        -158,
+                        652,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 130,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "130",
+            "Name_en": "271",
+            "Area": 0,
+            "Name": "130",
+            "BrandShop": 102,
+            "Center": [
+                881,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        980,
+                        33,
+                        980,
+                        -158,
+                        782,
+                        -158,
+                        782,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 131,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "131",
+            "Name_en": "270",
+            "Area": 0,
+            "Name": "131",
+            "BrandShop": 102,
+            "Center": [
+                1144.5,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1309,
+                        33,
+                        1309,
+                        -158,
+                        980,
+                        -158,
+                        980,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 132,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "132",
+            "Name_en": "269",
+            "Area": 0,
+            "Name": "132",
+            "BrandShop": 102,
+            "Center": [
+                1481,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1653,
+                        33,
+                        1653,
+                        -158,
+                        1309,
+                        -158,
+                        1309,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 133,
+            "ShopNo": "",
+            "Category2": 101,
+            "Category": 101,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "133",
+            "Name_en": "268А",
+            "Area": 0,
+            "Name": "133",
+            "BrandShop": 102,
+            "Center": [
+                1722.5,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        1793,
+                        33,
+                        1793,
+                        -158,
+                        1652,
+                        -158,
+                        1652,
+                        33
+                    ]
+                ]
+            ]
+        },
+        {
+            "Brand": 0,
+            "Type": "0",
+            "_id": 134,
+            "ShopNo": "",
+            "Category2": 102,
+            "Category": 102,
+            "dianping_id": -1,
+            "Brief": "",
+            "name": "134",
+            "Name_en": "268",
+            "Area": 0,
+            "Name": "134",
+            "BrandShop": 102,
+            "Center": [
+                1943.5,
+                -62.5
+            ],
+            "Outline": [
+                [
+                    [
+                        2094,
+                        33,
+                        2094,
+                        -158,
+                        1793,
+                        -158,
+                        1793,
+                        33
+                    ]
+                ]
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+    ],
+    "building": {
+      "_xLon": 116.436347485204,
+      "Tel": "",
+      "Address": "",
+      "Brief": "",
+      "Area": 13454.140625,
+      "FloorsId": "-1,1,2,3,4,5,6",
+      "Name_en": "",
+      "Version": 5,
+      "High": 1,
+      "FrontAngle": -0.890338608975752,
+      "Mall": 1,
+      "Time": "",
+      "UnderFloors": 1,
+      "Type": "6",
+      "Adcode": "110105",
+      "_yLat": 39.9718578960126,
+      "Outline": [
+        [
+          [-1632,365,-2105, 365,-2105,-172,-1326,-172,-1326,-389,-715,-389,-715,-172,2100,-172,2100,365,-462,365,-462,538,-898,538,-898,365,-942,365,-942,538,-1632,538
+          ]
+        ]
+      ],
+      "Name": "爱琴海购物中心",
+      "GroundFloors":27144,
+      "_id": "B000AA1CUQ",
+      "DefaultFloor": 27144,
+      "Remark": "\"{\"FL_NONA\":\"B1,F1,F2,F3,F4,F5,F6\",\"FL_NAME\":\"爱·生活,爱·精致,爱·风尚,爱·活力,爱·珍味,爱·分享,爱·娱乐\"}\""
+    }
+  }
+}

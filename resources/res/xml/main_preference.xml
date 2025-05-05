@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="Розклад">
+        <SwitchPreferenceCompat
+            android:layout_height="wrap_content"
+            android:defaultValue="true"
+            app:key="timetable_auto_update"
+            app:summary="Оновлювати розклад при кожному відкритті додатку"
+            app:title="Оновлювати автоматично"/>
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            app:key="timetable_merge"
+            app:summary="Показувати однакові події календаря та розкладу як одне"
+            app:title="Об&apos;єднувати події"/>
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            app:key="timetable_show_event"
+            app:summary="Відображати подію з Google Календаря у розкладі"
+            app:title="Події календаря"/>
+        <Preference
+            app:isPreferenceVisible="false"
+            app:key="timetable_feedback"
+            app:summary="Сповістити нас про помилку чи відстуність подій у розкладі"
+            app:title="Повідомити про помилку"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        app:initialExpandedChildrenCount="1"
+        app:key="account_category"
+        app:persistent="false"
+        app:title="Акаунт">
+        <Preference app:summary="Ви можете додати кілька резервних пошт Google для входу у ваш акаунт без необхідності наявності корпоративного акаунту в телефоні"/>
+        <Preference
+            android:key="main_account"
+            app:persistent="false"
+            app:summary="Основна пошта"
+            app:title=""/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Інше">
+        <SwitchPreferenceCompat
+            android:layout_height="wrap_content"
+            android:defaultValue="false"
+            app:key="test_function"
+            app:summary="Увімкнути функції, що ще розробляються"
+            app:title="Експериментальні функції"/>
+        <SwitchPreferenceCompat
+            android:layout_height="wrap_content"
+            android:defaultValue="false"
+            app:key="material3_theme"
+            app:summary="Увімкнути нову матеріальну тему з динамічними кольорами"
+            app:title="Динамічна тема"/>
+        <SwitchPreferenceCompat
+            android:layout_height="wrap_content"
+            android:defaultValue="false"
+            app:key="old_scheduler"
+            app:summary="Увімкніть виникли проблеми із відображенням розкладу"
+            app:title="Старий обробник розкладу"/>
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            app:key="analytics"
+            app:summary="Дозволити збір даних про використання додатку"
+            app:title="Допомогти розробнику"/>
+        <Preference
+            app:key="exit"
+            app:persistent="false"
+            app:summary="Вийти або змінити акаунт"
+            app:title="Вийти"/>
+    </PreferenceCategory>
+</androidx.preference.PreferenceScreen>

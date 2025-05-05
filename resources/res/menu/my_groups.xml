@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_sort"
+        android:title="Сорутвати"
+        android:titleCondensed="Areas"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/item1"
+                android:title="За іменем"
+                android:onClick="onSort"/>
+            <item
+                android:id="@+id/item2"
+                android:title="За прізвищем"
+                android:onClick="onSort"/>
+            <item
+                android:id="@+id/item3"
+                android:title="За формою фінанс."
+                android:onClick="onSort"/>
+            <item
+                android:id="@+id/item4"
+                android:visible="false"
+                android:title="За групою"
+                android:onClick="onSort"/>
+        </menu>
+    </item>
+    <item
+        android:icon="@drawable/ic_copy"
+        android:title="Копіювати таблицю"
+        android:onClick="onCopy"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="always"/>
+</menu>

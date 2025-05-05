@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/my_profile"
+        android:title="Моя сторінка"/>
+    <item
+        android:id="@+id/update_account"
+        android:title="Оновити інформацію"/>
+    <item
+        android:id="@+id/sign_out"
+        android:title="Вийти"/>
+    <item
+        android:id="@+id/change_account"
+        android:title="Змінити акаунт"/>
+</menu>

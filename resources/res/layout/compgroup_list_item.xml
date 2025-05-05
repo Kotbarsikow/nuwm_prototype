@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="?attr/selectableItemBackground"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="16dp">
+    <TextView
+        android:textAppearance="@style/BaseTextAppearance.Bold.Large"
+        android:textSize="@dimen/textVeryLargest"
+        android:textColor="?attr/colorTextTitle"
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"/>
+    <TextView
+        android:textAppearance="@style/BaseTextAppearance.Regular.Medium"
+        android:textSize="14sp"
+        android:textColor="?attr/colorTextMain"
+        android:id="@+id/info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Цей тип поки не підтримується"/>
+    <TextView
+        android:textAppearance="@style/BaseTextAppearance.Regular.Small"
+        android:textSize="12sp"
+        android:textColor="?attr/colorTextSub"
+        android:id="@+id/stream"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingVertical="2dp"/>
+    <View
+        android:background="?attr/colorBackgroundSub"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="8dp"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.6"/>
+</LinearLayout>

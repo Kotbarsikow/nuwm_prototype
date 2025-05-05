@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="6dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:tint="?attr/colorAccent"/>
+    <TextView
+        android:textSize="14sp"
+        android:textColor="?attr/colorTextTitle"
+        android:id="@+id/hint"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/image"
+        android:lineSpacingExtra="1.3sp"
+        android:fontFamily="@font/roboto"/>
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/hint_ok"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:text="Зрозуміло"
+        android:layout_below="@+id/hint"
+        android:layout_alignParentRight="true"
+        style="@style/AppButton.TextButton"/>
+</RelativeLayout>

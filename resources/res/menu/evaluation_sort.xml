@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_sort"
+        android:title="Сорутвати"
+        android:titleCondensed="Areas"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/item1"
+                android:title="За предметом"
+                android:onClick="onSort"/>
+            <item
+                android:id="@+id/item2"
+                android:title="За датою"
+                android:onClick="onSort"/>
+            <item
+                android:id="@+id/item3"
+                android:title="За годинами"
+                android:onClick="onSort"/>
+            <item
+                android:id="@+id/item4"
+                android:title="За оцінкою"
+                android:onClick="onSort"/>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_share"
+        android:id="@+id/action_share"
+        android:title="Поділитися"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:icon="@drawable/ic_more_vert"
+        android:id="@+id/action_option"
+        android:title="Читати у веб-переглядачі"
+        app:iconTint="?attr/colorTint"
+        app:showAsAction="never"/>
+</menu>

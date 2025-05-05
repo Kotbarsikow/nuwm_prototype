@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:focusable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardBackgroundColor="?attr/colorBackgroundView"
+    app:cardCornerRadius="@dimen/card_radius"
+    app:cardElevation="0dp"
+    app:contentPaddingBottom="8dp"
+    app:strokeColor="?attr/colorOutline"
+    app:strokeWidth="1sp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="6dp">
+        <TextView
+            android:textSize="@dimen/textLarge"
+            android:textColor="?attr/colorTextTitle"
+            android:id="@+id/card_img_title"
+            android:paddingLeft="8dp"
+            android:paddingTop="8dp"
+            android:paddingRight="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="3"
+            android:paddingHorizontal="8dp"/>
+        <TextView
+            android:textAppearance="@style/BaseTextAppearance.Regular.Small"
+            android:textSize="14sp"
+            android:textColor="?attr/colorTextSub"
+            android:id="@+id/card_img_description"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="8"
+            android:paddingHorizontal="8dp"/>
+        <TextView
+            android:textSize="12sp"
+            android:textColor="?attr/colorErrorText"
+            android:padding="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ця картка не підтримується у цій версії. Оновіть додаток"
+            android:alpha="0.66"/>
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>
